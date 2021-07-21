@@ -1,5 +1,5 @@
-# 内容：E-hentai
-# 数量：2条
+# 内容：Ehentai
+# 数量：8条
 USER-AGENT,*e-hentai*
 USER-AGENT,*exhentai*
 USER-AGENT,e-hentai*
