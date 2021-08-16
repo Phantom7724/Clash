@@ -1,11 +1,15 @@
-# 内容：Ehentai
-# 数量：8条
+# 内容：E-hentai
+# 数量：13条
 USER-AGENT,*e-hentai*
 USER-AGENT,*exhentai*
+USER-AGENT,*hath.network*
 USER-AGENT,e-hentai*
 USER-AGENT,exhentai*
+USER-AGENT,hath.network*
 DOMAIN-KEYWORD,e-hentai
 DOMAIN-KEYWORD,exhentai
+DOMAIN-KEYWORD,hath.network
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentaidb.com
+DOMAIN-SUFFIX,hath.network
