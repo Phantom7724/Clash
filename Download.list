@@ -9,7 +9,6 @@ PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,WebTorrent Helper.exe
 PROCESS-NAME,qbittorrent.exe
-PROCESS-NAME,IDMan.exe
 # bt
 DOMAIN-SUFFIX,smtp
 DOMAIN-SUFFIX,qbittorrent
