@@ -1,5 +1,7 @@
 # 内容：Steam
 # 数量：19条
+PROCESS-NAME,steam.exe
+
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
@@ -20,4 +22,4 @@ DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
 
-PROCESS-NAME,steam.exe
+
