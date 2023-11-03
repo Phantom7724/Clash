@@ -3,5 +3,8 @@
 USER-AGENT,*Twitcasting*
 USER-AGENT,Twitcasting*
 DOMAIN-KEYWORD,Twitcasting
-
 DOMAIN-SUFFIX,Twitcasting.tv
+
+#
+PROCESS-NAME,ツイキャス監視君.exe
+PROCESS-NAME,ツイキャス録画君.exe
