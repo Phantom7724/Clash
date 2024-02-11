@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,vod-secure.twitch.tv
 DOMAIN-SUFFIX,vod-metro.twitch.tv
 DOMAIN-SUFFIX,vod-pop-secure.twitch.tv
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,d2e2de1etea730.cloudfront.net
 DOMAIN-SUFFIX,dqrpb9wgowsf5.cloudfront.net
 DOMAIN-SUFFIX,ds0h3roq6wcgc.cloudfront.net
