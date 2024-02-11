@@ -1,4 +1,5 @@
 PROCESS-NAME,avp.exe
+PROCESS-NAME,schost.exe
 
 # Mac Download
 PROCESS-NAME,aria2c.exe
