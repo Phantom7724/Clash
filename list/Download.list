@@ -1,3 +1,5 @@
+PROCESS-NAME,avp.exe
+
 # Mac Download
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,fdm.exe
