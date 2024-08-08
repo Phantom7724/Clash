@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,dmmgames.com
 DOMAIN-SUFFIX,unblockdmm.com
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.hk
+
+PROCESS-NAME,DMMGamePlayer.exe
