@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.hk
 
 PROCESS-NAME,DMMGamePlayer.exe
+PROCESS-NAME,imys_r.exe
