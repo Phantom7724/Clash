@@ -1,8 +1,8 @@
 # 内容：Steam
 # 数量：19条
-PROCESS-NAME,steam.exe
-PROCESS-NAME,steamwebhelper.exe
-PROCESS-NAME,SteamService.exe
+-PROCESS-NAME,steam.exe
+-PROCESS-NAME,steamwebhelper.exe
+-PROCESS-NAME,SteamService.exe
 
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
