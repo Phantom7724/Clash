@@ -1,3 +1,8 @@
+#spacedesk
+USER-AGENT,*spacedesk*
+USER-AGENT,spacedesk*
+
+
 PROCESS-NAME,spacedeskConsole.exe
 
 DOMAIN,spacedesk.net
