@@ -1,4 +1,8 @@
 PROCESS-NAME,spacedeskConsole.exe
-DOMAIN-KEYWORD,spacedesk
+
+DOMAIN,spacedesk.net
 DOMAIN-SUFFIX,spacedesk.net
+
+DOMAIN-KEYWORD,spacedesk
+
 
