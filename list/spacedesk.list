@@ -4,6 +4,8 @@ USER-AGENT,spacedesk*
 
 
 PROCESS-NAME,spacedeskConsole.exe
+PROCESS-NAME,spacedeskService.exe
+PROCESS-NAME,spacedeskServiceTray.exe
 
 DOMAIN,spacedesk.net
 DOMAIN-SUFFIX,spacedesk.net
