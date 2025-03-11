@@ -1,4 +1,6 @@
-PROCESS-NAME,MonsterHunterWilds.exe
+USER-AGENT,*monsterhunter*
+USER-AGENT,monsterhunter*
 
+PROCESS-NAME,MonsterHunterWilds.exe
 DOMAIN-KEYWORD,monsterhunter
 DOMAIN-SUFFIX,monsterhunter.com
