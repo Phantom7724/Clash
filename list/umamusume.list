@@ -2,6 +2,4 @@ DOMAIN,prd-storage-umamusume.akamaized.net
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-KEYWORD,umamusume
 
-#claude
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-KEYWORD,claude
+PROCESS-NAME,UmamusumePrettyDerby.exe
